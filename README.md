@@ -27,7 +27,7 @@ cd PlantMart
 cd server
 npm install
 ```
-### 3. :Start the App
+### 3. Start the App:
 
 ```bash
 npm run dev
