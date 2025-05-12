@@ -11,22 +11,29 @@ PlantMart is an e-commerce application that allows users to shop for plants onli
 - Checkout functionality
 - Learn more about the app
 
-## Installation
+## Setup & Installation
 
 Clone this repository to your local machine:
 
+### 1. Clone the Repository:
+
 ```bash
 git clone https://github.com/Sdp00/PlantMart.git
-
-
-### 1. Install dependencies:
+cd PlantMart
+```
+### 2. Setup the Server:
 
 ```bash
 cd server
 npm install
-
-### 2. Start the app:
+```
+### 3. :Start the App
 
 ```bash
-npm start
+npm run dev
 ```
+## Tech Stack:
+-React
+-Redux Toolkit
+-React Router
+-CSS
