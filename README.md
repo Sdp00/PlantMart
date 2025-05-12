@@ -33,7 +33,7 @@ npm install
 npm run dev
 ```
 ## Tech Stack:
--React
--Redux Toolkit
--React Router
--CSS
+- React
+- Redux Toolkit
+- React Router
+- CSS
