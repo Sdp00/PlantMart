@@ -18,3 +18,17 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/Sdp00/PlantMart.git
 
+## Setup & Installation
+To run the **DevCompiler** locally, follow these steps:
+
+### 1. Install dependencies:
+
+```bash
+cd server
+npm install
+
+### 2. Start the app:
+
+```bash
+npm start
+```
